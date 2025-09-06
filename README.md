@@ -18,14 +18,14 @@ Let's Connect and Build Something Amazing! ⚙️
 </h1>
 <p align="center">
 <!-- Replace '#' with your actual social media links -->
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/anandtiwari0305/" target="_blank">
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="LinkedIn"/>
 </a>
 <a href="https://www.google.com/search?q=https://twitter.com/your-twitter-username/" target="_blank">
 <!-- Using a generic Twitter icon for a cleaner look -->
 <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="Twitter/X"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:anandpt05@gmail.com">
 <!-- Using a generic Mail icon -->
 <img height="50" src="https://www.google.com/search?q=https://user-images.githubusercontent.com/46517096/166974305-b9a5c895-2460-4880-9931-4b2a33f4a478.png" alt="Email"/>
 </a>
@@ -38,13 +38,14 @@ Let's Connect and Build Something Amazing! ⚙️
 Hello there! I'm Anand.
 🔩 Pronouns: He/Him
 🌍 Based in Mumbai, India
-🎓 Engineering Student @ [Your University], specializing in [Your Branch].
+🎓 Final Year Engineering Student at Somaiya Vidyavihar University, specializing in Electronics and Telecommunication.
+🎓 Honours in Advanced Telecommunication 
 💡 My passion lies at the intersection of hardware and software.
 I love designing circuits, writing firmware, and building the backend systems
 that make smart devices work.
-🔭 Currently working on a project involving custom robotics and machine vision.
+🔭 Currently working on a project involving custom Drone and Autonomous Systems.
 🎯 Goal: To contribute to open-source hardware and build robust IoT solutions.
-💬 Ask me about: Embedded C/C++, PCB Design, Python, or anything tech!
+💬 Ask me about: Embedded C/C++, PCB Design, Python, or anything !
 📫 You can reach me via my LinkedIn or Email above.
 </pre>
 
